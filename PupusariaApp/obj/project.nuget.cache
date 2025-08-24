@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGblIlTlGIY=",
+  "success": true,
+  "projectFilePath": "D:\\Pupusaria\\PupusariaApp\\PupusariaApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rm210\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\rm210\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
